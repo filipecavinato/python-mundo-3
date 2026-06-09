@@ -4,3 +4,13 @@ __pycache__/
 *.pyo
 *.pyd
 .pytest_cache/
+
+# Ambiente Virtual (venv)
+.venv/
+venv/
+ENV/
+env/
+
+# Arquivos Sistema Operacional
+.DS_Store
+Thumbs.db
