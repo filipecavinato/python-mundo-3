@@ -11,6 +11,9 @@ venv/
 ENV/
 env/
 
+# Arquivos .JSOn
+*.json
+
 # Arquivos Sistema Operacional
 .DS_Store
 Thumbs.db
